@@ -32,4 +32,5 @@ else{
 }
 
 let c = prompt("Indique nombre a buscar:");
+
 buscador(c);
